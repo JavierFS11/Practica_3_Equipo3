@@ -84,7 +84,7 @@ Paso 4. Acceso a las placas de ESP32.
 Paso 5. Seleccionar la placa AI Thinker ESP32 CAM
 
 ![image](https://user-images.githubusercontent.com/114626288/202943623-db681385-8043-41b3-aaa0-20fdb4982356.png)
-![image](https://user-images.githubusercontent.com/114626288/202944067-e93aeb60-7c83-496a-96dd-cbe072fedd51.png)
+![image](https://user-images.githubusercontent.com/114626288/202945065-ab6e703a-483e-4d60-983d-1bd2f99b080e.png)
 Paso 6. Conectar el dispositivo al CPU con el cable USB y abrir el monitor serie.
 
 ![image](https://user-images.githubusercontent.com/114626288/202944123-0620bc7d-ef5e-4f93-bf29-6d9e490f432d.png)
@@ -96,7 +96,7 @@ Paso 8. Codigo.
 ![image](https://user-images.githubusercontent.com/114626288/202944228-90df00bc-1cce-4cbb-a11c-85a21136abc7.png)
 Paso 9. Copiamos la dirección ip y en nuestro navegador lo pegamos para ir a esa página donde nos abrirá la cámara.
 
-Obtenemos el resuktado y podemos interactuar con nuestro dispositivo.
+Obtenemos el resultado y podemos interactuar con nuestro dispositivo.
 ![image](https://user-images.githubusercontent.com/114626288/202944321-662b9063-3ce0-419c-8d52-ad7705406fdc.png)
 ![image](https://user-images.githubusercontent.com/114626288/202944339-1a2b9cbe-1b26-4e3d-8295-9c21c84178e1.png)
 
