@@ -1,7 +1,7 @@
 # Practica_3_Equipo3
 En esta practica realizamos la Creación de un servidor de captura de imágenes y vídeo con el microcontrolador ESP32 CAM.
 
-
+<h2>Hola</h2>
 ## Objetivos
 Programar un servidor webcam usando el controlador ESP32 CAM, el IDE de Arduino y Python para capturar y visualizar imágenes y vídeo.
 
